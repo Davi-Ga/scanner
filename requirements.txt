@@ -1,0 +1,5 @@
+numpy
+opencv-python
+matplotlib
+pdf2image
+pyqt5
