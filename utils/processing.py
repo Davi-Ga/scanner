@@ -1,8 +1,6 @@
 import cv2
 import numpy as np
 
-
-
 class ImageProcessing:
     
     def resize_image(self, img, dim_limit):

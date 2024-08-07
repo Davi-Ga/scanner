@@ -41,7 +41,6 @@ final = detect.perspective_transform(destination_corners, corners, resized_img)
 # Use plt.imshow para mostrar a imagem
 plt.imshow(final, cmap="gray")
 # Salve a imagem
-plt.savefig('contours.png')
-
-
-plt.show()
+final_image = Image.fromarray(final)
+# Salve a imagem
+final_image.save('contours.png')
