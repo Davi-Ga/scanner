@@ -20,8 +20,8 @@ Este projeto é um Scanner de Imagens que identifica as bordas de uma foto conte
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/scanner-de-imagens.git
-    cd scanner-de-imagens
+    git clone https://github.com/Davi-Ga/scanner.git
+    cd scanner
     ```
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
